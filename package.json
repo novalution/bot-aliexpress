@@ -1,0 +1,17 @@
+{
+  "name": "coba",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Muhammad Naufal",
+  "license": "ISC",
+  "dependencies": {
+    "product": "^1.2.2",
+    "proxybot": "0.0.5",
+    "puppeteer": "^5.5.0"
+  }
+}
